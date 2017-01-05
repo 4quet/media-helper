@@ -1,0 +1,27 @@
+{
+  "name": "media-helper",
+  "version": "1.0.0",
+  "description": "A small module to help detecting and converting files ",
+  "main": "media-helper.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4quet/media-helper.git"
+  },
+  "keywords": [
+    "file",
+    "type",
+    "convert",
+    "image",
+    "video",
+    "media",
+    "base64"
+  ],
+  "author": "4quet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4quet/media-helper/issues"
+  },
+  "homepage": "https://github.com/4quet/media-helper#readme"
+}
