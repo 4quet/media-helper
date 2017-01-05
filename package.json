@@ -1,7 +1,7 @@
 {
   "name": "media-helper",
   "version": "1.0.0",
-  "description": "A small module to help detecting and converting files ",
+  "description": "A small module to help detecting and converting files through URL/file sytem",
   "main": "media-helper.js",
   "scripts": {
   },
