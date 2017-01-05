@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "A small module to help detecting and converting files through URL/file sytem",
   "main": "media-helper.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/4quet/media-helper.git"
@@ -23,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/4quet/media-helper/issues"
   },
-  "homepage": "https://github.com/4quet/media-helper#readme"
+  "homepage": "https://github.com/4quet/media-helper#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mmmagic": "^0.4.5",
+    "request": "^2.79.0"
+  }
 }
